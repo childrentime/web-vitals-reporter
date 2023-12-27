@@ -1,0 +1,15 @@
+{
+  "name": "web-vitals-reporter",
+  "version": "1.0.0",
+  "description": "## 环境要求",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
